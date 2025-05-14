@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://cdn.pixabay.com/photo/2019/08/06/20/52/hacker-4393375_1280.jpg" alt="Ethical Hacking Image" />
-</div>
+<div align="center"><img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></div>
 
 ---
 
@@ -55,14 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js logo" />
-</div>
----
-<h3 align="left">📊 My Stats</h3>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oussama&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 

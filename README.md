@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt Designer logo" />
   <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" height="40" alt="Bootstrap logo" />
   <img src="https://www.kali.org/images/kali-logo.svg" height="40" alt="Kali Linux logo" />
-  <img src="https://pluspng.com/img-png/apache-logo-png-img-free-png-apache-logo-png-img-1182-596-free-900x460.jpg" height="40" alt="apache logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" height="40" alt="apache logo" />
 </div>
 
 

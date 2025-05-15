@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d6284244-a524-4611-b061-ce32480871fd)<div align="center"><img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></div>
+<div align="center"><img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /></div>
 
 ---
 

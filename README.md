@@ -60,8 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt Designer logo" />
-  <img src="https://www.kali.org/images/kali-logo.svg" height="40" alt="Kali Linux logo" />
   <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" height="40" alt="Bootstrap logo" />
+  <img src="https://www.kali.org/images/kali-logo.svg" height="40" alt="Kali Linux logo" />
+  <img src="https://httpd.apache.org/docs/current/images/feather.png" height="40" alt="apache logo" />
 </div>
 
 

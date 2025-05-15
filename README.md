@@ -41,8 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img src="https://www.kali.org/tools/sqlmap/sqlmap-logo.png" height="40" alt="SQLmap logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nmap-logo.svg/512px-Nmap-logo.svg.png" height="40" alt="Nmap logo" />
+  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="40" alt="SQLmap logo" />
+  <img src="https://nmap.org/images/sitelogo.png" height="40" alt="Nmap logo" />
 </div>
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 <div align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt Designer logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png" height="40" alt="Kali Linux logo" />
+<img src="https://www.kali.org/images/kali-logo.svg" height="40" alt="Kali Linux logo" />
 </div>
 
 

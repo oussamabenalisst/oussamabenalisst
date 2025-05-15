@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
+  <img src="https://icons8.com/icon/J6KcaRLsTgpZ/sql" height="40" alt="SQL logo" />
   <img src="https://www.kali.org/images/tool-logo-burp.svg" height="40" alt="burpsuite logo" />
   <img src="https://www.kali.org/images/tool-logo-nmap.svg" height="40" alt="Nmap logo" />
   <img src="https://www.kali.org/images/tool-logo-metasploit.svg" height="40" alt="metasploit logo" />

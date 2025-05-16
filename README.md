@@ -65,7 +65,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" height="40" alt="apache logo" />
 </div>
 
+---
+
 <h3 align="left">🎓 Certifications</h3>
+
+---
 
 <div align="left">
   <a href="https://www.credly.com/badges/1ed1492a-48cd-4eb1-b4cd-95f033b856c8/public_url"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="40"  alt="Certification python level1 cisco Badge" /></a>

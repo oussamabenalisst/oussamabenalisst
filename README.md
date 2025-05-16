@@ -1,4 +1,4 @@
-<div align="center"><img height="150" whith="100%" src="https://i.giphy.com/1oF1KAEYvmXBMo6uTS.webp"  /></div>
+<div align="center"><img height="150" whith="200" src="https://i.giphy.com/1oF1KAEYvmXBMo6uTS.webp"  /></div>
 <div align="center">
   <a href="https://www.facebook.com/oussama.benali.1656/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
   <a href="https://www.linkedin.com/in/oussama-benali-ob/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>

@@ -6,9 +6,6 @@
   <a href="http://oussamabenalitn.great-site.net/oussama%20%20benali.html"><img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" /></a>
 </div>
 <h1 align="center">👨‍💻 Welcome to My World 👨‍💻</h1>
-
----
-
 <h3 align="left">💡 About Me</h3>
 
 ---

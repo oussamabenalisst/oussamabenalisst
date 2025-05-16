@@ -5,9 +5,6 @@
   <a href="https://www.instagram.com/oussama.benali.oussal/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
   <a href="http://oussamabenalitn.great-site.net/oussama%20%20benali.html"><img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" /></a>
 </div>
-
----
-
 <h1 align="center">👨‍💻 Welcome to My World 👨‍💻</h1>
 
 ---
@@ -25,9 +22,6 @@
 ---
 
 <h3 align="left">🛠 Languages & Tools</h3>
-
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
@@ -49,7 +43,7 @@
 
 <h3 align="left">🚀 Frameworks & Platforms</h3>
 
----
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
@@ -66,7 +60,7 @@
 
 <h3 align="left">🎓 Certifications</h3>
 
----
+
 
 <div align="left">
   <a href="https://www.credly.com/badges/1ed1492a-48cd-4eb1-b4cd-95f033b856c8/public_url"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="40"  alt="Certification python level1 cisco Badge" /></a>

@@ -7,9 +7,6 @@
 </div>
 <h1 align="center">👨‍💻 Welcome to My World 👨‍💻</h1>
 <h3 align="left">💡 About Me</h3>
-
----
-
 <p align="left">
   🚀 Passionate about ethical hacking and programming.<br>
   🎯 Always exploring new technologies.<br>

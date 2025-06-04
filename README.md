@@ -1,4 +1,4 @@
-<div align="center"><img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVuYThjN3JwZmxkenp0MGprMzFtdm1nMmlpaXFhY3F1d2IycjlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  /></div>
+![image](https://github.com/user-attachments/assets/a717410d-87c7-48ec-8826-730d0ff74293)<div align="center"><img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVuYThjN3JwZmxkenp0MGprMzFtdm1nMmlpaXFhY3F1d2IycjlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  /></div>
 <div align="center">
   <a href="https://www.facebook.com/oussama.benali.1656/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
   <a href="https://www.linkedin.com/in/oussama-benali-ob/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
@@ -50,7 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt Designer logo" />
   <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" height="40" alt="Bootstrap logo" />
   <img src="https://www.kali.org/images/kali-logo.svg" height="40" alt="Kali Linux logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" height="40" alt="apache logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" height="40" alt="Apache logo" />
+  <img src="https://github.com/user-attachments/assets/69a294b7-e17a-4a51-bb7c-cfe2121cd27b" height="40" alt="Tailwind CSS logo" />
 </div>
 
 ---

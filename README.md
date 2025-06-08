@@ -53,6 +53,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" height="40" alt="Apache logo" />
   <img src="https://github.com/user-attachments/assets/69a294b7-e17a-4a51-bb7c-cfe2121cd27b" height="40" alt="Tailwind CSS logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+
 
 </div>
 

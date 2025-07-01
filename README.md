@@ -35,6 +35,8 @@
   <img src="https://www.kali.org/images/tool-logo-burp.svg" height="40" alt="burpsuite logo" />
   <img src="https://www.kali.org/images/tool-logo-nmap.svg" height="40" alt="Nmap logo" />
   <img src="https://www.kali.org/images/tool-logo-metasploit.svg" height="40" alt="metasploit logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+
 
 </div>
 

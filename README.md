@@ -8,8 +8,14 @@
 <h1 align="center">👨‍💻 Welcome to My World 👨‍💻</h1>
 <div align="center" >
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabenalisst&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabenalisst&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" 
+    alt="Top Languages"
+    width="600"
+    height="320"
+  />
+</div>
 
 </div>
 <h3 align="left">💡 About Me</h3>
@@ -37,7 +43,6 @@
   <img src="https://www.kali.org/images/tool-logo-metasploit.svg" height="40" alt="metasploit logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 
-
 </div>
 
 ---
@@ -57,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
 
-
 </div>
 
 ---
@@ -68,7 +72,3 @@
   <a href="https://isa2m.rnu.tn/"><img src="https://isa2m.rnu.tn/assets/img/logo-dark.png" height="40"  alt="licence-Sciences-informatiques 1GL" /></a>
   <a href="https://www.credly.com/badges/1ed1492a-48cd-4eb1-b4cd-95f033b856c8/public_url"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="40"  alt="Certification python level1 cisco Badge" /></a>
 </div>
-
-
-
-

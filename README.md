@@ -18,8 +18,8 @@
 </div>
 
 </div>
-<h3 align="left">💡 About Me</h3>
-<p align="left">
+<h3 align="center">💡 About Me</h3>
+<p align="center">
   🚀 Passionate about ethical hacking and programming.<br>
   🎯 Always exploring new technologies.<br>
   🔥 Love solving challenges and security puzzles.<br>
@@ -27,41 +27,27 @@
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
-<div align="left">
-  <!-- python  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <!-- javascript  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <!-- typescript  -->
-  <img src="https://img.icons8.com/?id=nCj4PvnCO0tZ&format=png&color=000000" height="40" alt="TypeScript logo" />
-  <!-- c  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <!-- c++  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <!-- php  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <!-- html  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
-  <!-- css  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <!-- sql  -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/250px-Sql_data_base_with_logo.svg.png" height="40" alt="SQL logo" />
-  <!-- bt  -->
-  <img src="https://www.kali.org/images/tool-logo-burp.svg" height="40" alt="burpsuite logo" />
-  <!-- nmap  -->
-  <img src="https://www.kali.org/images/tool-logo-nmap.svg" height="40" alt="Nmap logo" />
-  <!-- metas  -->
-  <img src="https://www.kali.org/images/tool-logo-metasploit.svg" height="40" alt="metasploit logo" />
-  <!-- mongo  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-
+<h3 align="center"">🛠 Languages & Tools</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB logo" />
+  <img src="https://www.kali.org/images/tool-logo-burp.svg" height="50" alt="Burp Suite logo" />
+  <img src="https://www.kali.org/images/tool-logo-nmap.svg" height="50" alt="Nmap logo" />
+  <img src="https://www.kali.org/images/tool-logo-metasploit.svg" height="50" alt="Metasploit logo" />
 </div>
 
 ---
 
-<h3 align="left">🚀 Frameworks & Platforms</h3>
-<div align="left">
+<h3 align="center">🚀 Frameworks & Platforms</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
@@ -79,8 +65,8 @@
 
 ---
 
-<h3 align="left">🎓 Certifications & Universitys</h3>
-<div align="left">
+<h3 align="center">🎓 Certifications & Universitys</h3>
+<div align="center">
    <a href="https://iteam-univ.tn/"><img src="https://iteam-univ.tn/wp-content/uploads/2020/07/cropped-Logo_iTeamUniversity-150x50.png" height="30"  alt="licence-en-genie-logiciel 1GL" /></a>
   <a href="https://isa2m.rnu.tn/"><img src="https://isa2m.rnu.tn/assets/img/logo-dark.png" height="40"  alt="licence-Sciences-informatiques 1GL" /></a>
   <a href="https://www.credly.com/badges/1ed1492a-48cd-4eb1-b4cd-95f033b856c8/public_url"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="40"  alt="Certification python level1 cisco Badge" /></a>

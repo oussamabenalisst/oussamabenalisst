@@ -29,18 +29,31 @@
 
 <h3 align="left">🛠 Languages & Tools</h3>
 <div align="left">
+  <!-- python  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <!-- javascript  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <!-- typescript  -->
   <img src="https://img.icons8.com/?id=nCj4PvnCO0tZ&format=png&color=000000" height="40" alt="TypeScript logo" />
+  <!-- c  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <!-- c++  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <!-- php  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+  <!-- html  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+  <!-- css  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
+  <!-- sql  -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/250px-Sql_data_base_with_logo.svg.png" height="40" alt="SQL logo" />
+  <!-- bt  -->
   <img src="https://www.kali.org/images/tool-logo-burp.svg" height="40" alt="burpsuite logo" />
+  <!-- nmap  -->
   <img src="https://www.kali.org/images/tool-logo-nmap.svg" height="40" alt="Nmap logo" />
+  <!-- metas  -->
   <img src="https://www.kali.org/images/tool-logo-metasploit.svg" height="40" alt="metasploit logo" />
+  <!-- mongo  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 
 </div>

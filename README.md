@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>🛠️</td>
-    <td>Enjoy refining MERN stack projects, optimizing API communication, and using nodemon to streamline development environments.</td>
+    <td>Enjoy refining MERN stack projects, optimizing API communication . </td>
   </tr>
   <tr>
     <td>🌍</td>
@@ -48,7 +48,6 @@
     <td>Continuously learning and aligning technical expertise with global and local market trends.</td>
   </tr>
 </table>
-
 
 ---
 

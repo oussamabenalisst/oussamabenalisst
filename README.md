@@ -5,14 +5,14 @@
   <a href="https://www.instagram.com/oussama.benali.oussal/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
   <a href="http://oussamabenalitn.great-site.net/oussama%20%20benali.html"><img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" /></a>
 </div>
-<h1 align="center">👨‍💻 Welcome to My World 👨‍💻</h1>
+<h1 align="center" style="font-size:35px;">👨‍💻 Welcome to My World 👨‍💻</h1>
 <div align="center" >
 
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabenalisst&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" 
     alt="Top Languages"
-    width="400"
+    width="500"
   />
 </div>
 
@@ -20,11 +20,11 @@
 
 ---
 
-<h3 align="center">💡 About Me 💡</h3>
-<p align="center">
-  🚀Passionate about ethical hacking and programming🚀<br>
-  🎯Always exploring new technologies🎯<br>
-  🔥Love solving challenges and security puzzles🔥<br>
+<h3 align="center" style="font-size:24px;">💡 About Me 💡</h3>
+<p align="center" style="font-size:20px;">
+  🚀 Passionate about ethical hacking and programming 🚀<br>
+  🎯 Always exploring new technologies 🎯<br>
+  🔥 Love solving challenges and security puzzles 🔥<br>
 </p>
 
 ---

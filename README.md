@@ -1,4 +1,4 @@
-<div align="center"><img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVuYThjN3JwZmxkenp0MGprMzFtdm1nMmlpaXFhY3F1d2IycjlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  /></div>
+<div align="center"><img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVuYThjN3JwZmxkenp0MGprMzFtdm1nMmlpaXFhY3F1d2IycjlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  /></div>
 <div align="center">
   <a href="https://www.facebook.com/oussama.benali.1656/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
   <a href="https://www.linkedin.com/in/oussama-benali-ob/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
@@ -12,8 +12,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabenalisst&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" 
     alt="Top Languages"
-    width="600"
-    height="320"
+    width="400"
   />
 </div>
 

@@ -20,6 +20,18 @@
 
 ---
 
+<h3 align="center">💻 About Me 💻</h3>
+<p align="center">
+  👋 Hi, I’m Oussama Benali — a curious and forward-thinking developer who thrives on solving real-world challenges with clean code and smart architecture.<br>
+  🧠 With solid experience in Express.js, SQL, TypeScript, and Git workflows, I specialize in structuring scalable web applications and resolving tricky bugs.<br>
+  🛠️ I love refining MERN stack projects, optimizing API communication, and using nodemon to build smooth dev environments.<br>
+  🌍 Multilingual in Arabic & French & Anglais, I communicate effectively in diverse tech communities and enjoy sharing knowledge through open-source.<br>
+  🔒 Passionate about ethical hacking, creative branding, and building tools that matter.<br>
+  📈 Always learning, experimenting, and aligning my technical path with market demands — locally and globally.
+</p>
+
+---
+
 <h3 align="center"">🛠 Languages & Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
@@ -36,18 +48,6 @@
   <img src="https://www.kali.org/images/tool-logo-nmap.svg" height="40" alt="Nmap logo" />
   <img src="https://www.kali.org/images/tool-logo-metasploit.svg" height="40" alt="Metasploit logo" />
 </div>
-
----
-
-<h3 align="center">💻 About Me 💻</h3>
-<p align="center">
-  👋 Hi, I’m Oussama Benali — a curious and forward-thinking developer who thrives on solving real-world challenges with clean code and smart architecture.<br>
-  🧠 With solid experience in Express.js, SQL, TypeScript, and Git workflows, I specialize in structuring scalable web applications and resolving tricky bugs.<br>
-  🛠️ I love refining MERN stack projects, optimizing API communication, and using nodemon to build smooth dev environments.<br>
-  🌍 Multilingual in Arabic & French & Anglais, I communicate effectively in diverse tech communities and enjoy sharing knowledge through open-source.<br>
-  🔒 Passionate about ethical hacking, creative branding, and building tools that matter.<br>
-  📈 Always learning, experimenting, and aligning my technical path with market demands — locally and globally.
-</p>
 
 ---
 

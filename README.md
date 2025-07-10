@@ -21,14 +21,34 @@
 ---
 
 <h3 align="center">💻 About Me 💻</h3>
-<p align="center">
-  👋 Hi, I’m <strong>Oussama Benali </strong> — a curious and forward-thinking developer who thrives on solving real-world challenges with clean code and smart architecture.<br>
-  🧠 With solid experience in Express.js, SQL, TypeScript, and Git workflows, I specialize in structuring scalable web applications and resolving tricky bugs.<br>
-  🛠️ I love refining MERN stack projects, optimizing API communication, and using nodemon to build smooth dev environments.<br>
-  🌍 Multilingual in Arabic & French & Anglais, I communicate effectively in diverse tech communities and enjoy sharing knowledge through open-source.<br>
-  🔒 Passionate about ethical hacking, creative branding, and building tools that matter.<br>
-  📈 Always learning, experimenting, and aligning my technical path with market demands — locally and globally.
-</p>
+
+<table align="center">
+  <tr>
+    <td>👋</td>
+    <td><strong>Oussama Benali</strong> — a curious and forward-thinking developer who thrives on solving real-world challenges with clean code and smart architecture.</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td>Experienced in Express.js, SQL, TypeScript, and Git workflows — specializing in structuring scalable web applications and resolving tricky bugs.</td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td>Enjoy refining MERN stack projects, optimizing API communication, and using nodemon to streamline development environments.</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td>Multilingual in Arabic, French, and English — actively communicating in diverse tech communities and contributing to open-source.</td>
+  </tr>
+  <tr>
+    <td>🔒</td>
+    <td>Passionate about ethical hacking, creative branding, and building impactful, secure digital tools.</td>
+  </tr>
+  <tr>
+    <td>📈</td>
+    <td>Continuously learning and aligning technical expertise with global and local market trends.</td>
+  </tr>
+</table>
+
 
 ---
 

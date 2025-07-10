@@ -17,11 +17,14 @@
 </div>
 
 </div>
-<h3 align="center">💡 About Me</h3>
+
+---
+
+<h3 align="center">💡 About Me 💡</h3>
 <p align="center">
-  🚀 Passionate about ethical hacking and programming.<br>
-  🎯 Always exploring new technologies.<br>
-  🔥 Love solving challenges and security puzzles.<br>
+  🚀Passionate about ethical hacking and programming🚀<br>
+  🎯Always exploring new technologies🎯<br>
+  🔥Love solving challenges and security puzzles🔥<br>
 </p>
 
 ---

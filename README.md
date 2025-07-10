@@ -22,7 +22,7 @@
 
 <h3 align="center">💻 About Me 💻</h3>
 <p align="center">
-  👋 Hi, I’m Oussama Benali — a curious and forward-thinking developer who thrives on solving real-world challenges with clean code and smart architecture.<br>
+  👋 Hi, I’m <strong>Oussama Benali </strong> — a curious and forward-thinking developer who thrives on solving real-world challenges with clean code and smart architecture.<br>
   🧠 With solid experience in Express.js, SQL, TypeScript, and Git workflows, I specialize in structuring scalable web applications and resolving tricky bugs.<br>
   🛠️ I love refining MERN stack projects, optimizing API communication, and using nodemon to build smooth dev environments.<br>
   🌍 Multilingual in Arabic & French & Anglais, I communicate effectively in diverse tech communities and enjoy sharing knowledge through open-source.<br>

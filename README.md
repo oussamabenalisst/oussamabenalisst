@@ -91,8 +91,7 @@
 
 <h3 align="center">🎓 Certifications & Universitys</h3>
 <div align="center">
-   <a href="https://iteam-univ.tn/"><img src="https://iteam-univ.tn/wp-content/uploads/2020/07/cropped-Logo_iTeamUniversity-150x50.png" height="30"  alt="licence-en-genie-logiciel 1GL" /></a> 
-   <a href="https://isa2m.rnu.tn/"><img src="https://isa2m.rnu.tn/assets/img/logo-dark.png" height="40"  alt="licence-Sciences-informatiques 1GL" /></a>
+   <a href="https://iteam-univ.tn/"><img src="https://iteam-univ.tn/wp-content/uploads/2020/07/cropped-Logo_iTeamUniversity-150x50.png" height="30"  alt="ITEAM" /></a> 
+   <a href="https://isa2m.rnu.tn/"> <img src="https://isa2m.rnu.tn/assets/img/logo-dark.png" height="40" alt="ISAMM" /> </a>
    <a href="https://www.credly.com/badges/1ed1492a-48cd-4eb1-b4cd-95f033b856c8/public_url"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="40"  alt="Certification python level1 cisco Badge" /></a>
-
 </div>

@@ -26,16 +26,11 @@
 </h1>
 
 <div align="center">
-
-  <!-- GitHub Stats Cards -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamabenalisst&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
   
   <!-- Top Languages & Activity Graph -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabenalisst&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   
-  <br/><br/>
+  <br/>
   
   <!-- GitHub Activity Graph -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=oussamabenalisst&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
@@ -60,7 +55,7 @@ const oussama = {
 
 </div>
 
-<table align="center">
+<table align="center" width="80%" style="margin-top: 20px; margin-bottom: 20px;">
   <tr>
     <td align="center" width="50%">
       <h3>👨‍💻 Developer Profile</h3>
@@ -92,8 +87,6 @@ const oussama = {
 🔹 Grow **Developer Community** Presence
 
 </div>
-
----
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -128,8 +121,6 @@ const oussama = {
 ### 📊 Data Science & Analysis
 
 <img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark" alt="Data Science" />
-
-</div>
 
 ---
 
@@ -206,9 +197,6 @@ const oussama = {
 <div align="center">
   <p style="font-size: 14px; color: #888;">
     ⭐️ From <a href="https://github.com/oussamabenalisst">Oussama Benali</a> with 💙
-  </p>
-  <p style="font-size: 12px; color: #666;">
-    Made with ❤️ using Markdown & GitHub Stats APIs
   </p>
 </div>
 

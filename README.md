@@ -27,9 +27,6 @@
 
 <div align="center">
   
-  <!-- Top Languages & Activity Graph -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabenalisst&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  
   <br/>
   
   <!-- GitHub Activity Graph -->

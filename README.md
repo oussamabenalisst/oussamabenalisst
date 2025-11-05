@@ -52,39 +52,6 @@ const oussama = {
 
 </div>
 
-<table align="center" width="80%" style="margin-top: 20px; margin-bottom: 20px;">
-  <tr>
-    <td align="center" width="50%">
-      <h3>👨‍💻 Developer Profile</h3>
-      • 🧠 Experienced in <b>MERN Stack</b><br/>
-      • 🛠️ Specializing in <b>Express.js, TypeScript, SQL</b><br/>
-      • 🎯 Focus on <b>Clean Code & Architecture</b><br/>
-      • 🔄 Expert in <b>Git Workflows</b><br/>
-      • 🚀 Building <b>Scalable Applications</b>
-    </td>
-    <td align="center" width="50%">
-      <h3>👨‍💻 Security Enthusiast</h3>
-      • 🛡️ Passionate about <b>Ethical Hacking</b><br/>
-      • 🔐 Building <b>Secure Digital Tools</b><br/>
-      • 🌐 Contributing to <b>Open Source</b><br/>
-      • 📈 Following <b>Market Trends</b><br/>
-      • 🎨 Creative <b>Branding & Design</b>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  
-### 🎯 Current Goals for 2025
-  
-🔹 Contribute to **10+ Open Source Projects**  
-🔹 Master **Cloud Architecture** (AWS/Azure)  
-🔹 Build **3 Major Full-Stack Projects**  
-🔹 Earn **Advanced Security Certifications**  
-🔹 Grow **Developer Community** Presence
-
-</div>
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">

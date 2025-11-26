@@ -80,6 +80,11 @@ const oussama = {
   <img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/OWASP-FF0000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/SQLMap-00BFFF?style=for-the-badge&logo=sqlmap&logoColor=white" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/Beef-FF0000?style=for-the-badge&logo=beef&logoColor=white" alt="Beef" />
+  <img src="https://img.shields.io/badge/OSINT-00BFFF?style=for-the-badge&logo=osint&logoColor=white" alt="OSINT" />
+  <img src="https://img.shields.io/badge/PhishSense-00BFFF?style=for-the-badge&logo=PhishSense&logoColor=white" alt="PhishSense" />
 </div>
 
 ### 📊 Data Science & Analysis

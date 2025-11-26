@@ -140,6 +140,12 @@ const oussama = {
         <br/><b>Cisco Python Level 1</b>
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/8321af5f-6195-4662-8ec4-8263fdc45cfd/public_url">
+        <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="50" alt="Python Certification"/>
+        <br/><b>Cisco Ethical Hacker</b>
+      </a>
+    </td>
   </tr>
 </table>
 

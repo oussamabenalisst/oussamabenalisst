@@ -122,25 +122,25 @@ const oussama = {
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://iteam-univ.tn/">
         <img src="https://iteam-univ.tn/wp-content/uploads/2020/07/cropped-Logo_iTeamUniversity-150x50.png" height="50" alt="ITEAM University"/>
         <br/><b>ITEAM University</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://isa2m.rnu.tn/">
         <img src="https://isa2m.rnu.tn/assets/img/logo-dark.png" height="50" alt="ISAMM"/>
         <br/><b>ISAMM</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/1ed1492a-48cd-4eb1-b4cd-95f033b856c8/public_url">
         <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="50" alt="Python Certification"/>
         <br/><b>Cisco Python Level 1</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/8321af5f-6195-4662-8ec4-8263fdc45cfd/public_url">
         <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="50" alt="Python Certification"/>
         <br/><b>Cisco Ethical Hacker</b>

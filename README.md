@@ -159,6 +159,12 @@ const oussama = {
         <br/><b>Cisco Python Level 2</b>
       </a>
     </td>
+  <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/3fbc4e09-e571-4b6e-8eb6-7e4e340e5017/public_url">
+        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="50" alt="Python Certification"/>
+        <br/><b>Cisco Introduction to Cybersecurity</b>
+      </a>
+    </td>
   </tr>
 </table>
 

@@ -152,6 +152,14 @@ const oussama = {
       </a>
     </td>
   </tr>
+  <table>
+  <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/f7007a12-8f0f-4ada-bdd5-5cb71cd5deac/public_url">
+        <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" height="50" alt="Python Certification"/>
+        <br/><b>Cisco Python Level 2</b>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ### 🏆 Achievement Badges

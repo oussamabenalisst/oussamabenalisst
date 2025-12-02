@@ -93,31 +93,36 @@ const oussama = {
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<details>
+  <summary><strong>GitHub Analytics</strong></summary>
 
-<div align="center">
+  <div align="center">
 
 ### 📈 Detailed Statistics
 
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamabenalisst&theme=tokyonight" alt="Profile Details" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oussamabenalisst&theme=tokyonight" alt="Repos Per Language" width="350"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oussamabenalisst&theme=tokyonight" alt="Most Commit Language" width="350"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oussamabenalisst&theme=tokyonight" alt="Stats" width="350"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oussamabenalisst&theme=tokyonight" alt="Productive Time" width="350"/>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamabenalisst&theme=tokyonight" alt="Profile Details" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oussamabenalisst&theme=tokyonight" alt="Repos Per Language" width="350"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oussamabenalisst&theme=tokyonight" alt="Most Commit Language" width="350"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oussamabenalisst&theme=tokyonight" alt="Stats" width="350"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oussamabenalisst&theme=tokyonight" alt="Productive Time" width="350"/>
+      </td>
+    </tr>
+  </table>
+
+  </div>
+
+</details>
 
 ---
 

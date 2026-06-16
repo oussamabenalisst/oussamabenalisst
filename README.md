@@ -134,7 +134,7 @@ const oussama = {
   <tr>
     <td align="center" width="25%">
       <a href="https://iteam-univ.tn/">
-        <img src="https://iteam-univ.tn/wp-content/uploads/2020/07/cropped-Logo_iTeamUniversity-150x50.png" height="50" alt="ITEAM University"/>
+        <img src="https://iteam-univ.tn/assets/design/logos/logo%20iteams%20uni%20vecto.png" height="50" alt="ITEAM University"/>
         <br/><b>ITEAM University</b>
       </a>
     </td>

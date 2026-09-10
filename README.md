@@ -25,15 +25,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+OUSS+FAB;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  
-  <br/>
-  
-  <!-- GitHub Activity Graph -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=oussamabenalisst&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -184,7 +175,7 @@ const oussama = {
 
 <div align="center">
   <p style="font-size: 14px; color: #888;">
-    ⭐️ From <a href="https://github.com/oussamabenalisst">Oussama Benali</a> with 💙
+    ⭐️ From <a href="https://github.com/oussamabenalisst">OUSSFAB</a> with 💙
   </p>
 </div>
 

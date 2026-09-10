@@ -22,7 +22,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Oussama+Benali;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+OUSS+FAB;Full+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -136,12 +136,6 @@ const oussama = {
       <a href="https://iteam-univ.tn/">
         <img src="https://iteam-univ.tn/assets/design/logos/logo%20iteams%20uni%20vecto.png" height="50" alt="ITEAM University"/>
         <br/><b>ITEAM University</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://isa2m.rnu.tn/">
-        <img src="https://isa2m.rnu.tn/assets/img/logo-dark.png" height="50" alt="ISAMM"/>
-        <br/><b>ISAMM</b>
       </a>
     </td>
     <td align="center" width="25%">

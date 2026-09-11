@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/oussama.benali.oussal/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-  <a href="http://oussamabenalitn.great-site.net">
+  <a href="https://oussamabenali.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Website&logo=internet-explorer&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="website logo" />
   </a>
 

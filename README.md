@@ -43,11 +43,12 @@ const oussama = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,php,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,php,html,css&theme=dark" alt="Languages including Java" />
 
 ### 🗄️ Databases & Backend
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express,npm&theme=dark" alt="Backend" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle Database logo" />
 
 ### ⚛️ Frontend & Frameworks
 

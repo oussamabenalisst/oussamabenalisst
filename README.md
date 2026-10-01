@@ -150,6 +150,12 @@ const oussama = {
         <br/><b>Cisco Introduction to Cybersecurity</b>
       </a>
     </td>
+  <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/de79689f-e56f-4565-9462-7b164539d408">
+        <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" height="50" alt="Python Certification"/>
+        <br/><b>JavaScript Essentials 1</b>
+      </a>
+    </td>
   </tr>
 </table>
 

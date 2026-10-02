@@ -137,7 +137,9 @@ const oussama = {
       </a>
     </td>
   </tr>
+  </table>
   <table>
+  <tr>
   <td align="center" width="25%">
       <a href="https://www.credly.com/badges/f7007a12-8f0f-4ada-bdd5-5cb71cd5deac/public_url">
         <img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" height="50" alt="Python Certification"/>
@@ -154,6 +156,16 @@ const oussama = {
       <a href="https://www.credly.com/badges/de79689f-e56f-4565-9462-7b164539d408">
         <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" height="50" alt="Python Certification"/>
         <br/><b>JavaScript Essentials 1</b>
+      </a>
+    </td>
+  </tr>
+</table>
+  <table>
+  <tr>
+  <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/a07a8ad9-dd2b-40c3-b145-5ae97971d8c7/linked_in_profile">
+        <img src="https://images.credly.com/size/340x340/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" height="50" alt="Python Certification"/>
+        <br/><b>HTML Essentials</b>
       </a>
     </td>
   </tr>

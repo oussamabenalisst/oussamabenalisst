@@ -103,6 +103,7 @@ const oussama = {
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oussamabenalisst&theme=tokyonight" alt="Stats" width="350"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oussamabenalisst&theme=tokyonight" alt="Productive Time" width="350"/>
       </td>
+      
     </tr>
   </table>
 
@@ -132,7 +133,7 @@ const oussama = {
     </td>
     <td align="center" width="25%">
       <a href="https://www.credly.com/badges/8321af5f-6195-4662-8ec4-8263fdc45cfd/public_url">
-        <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="50" alt="Python Certification"/>
+        <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="50" alt="Ethical Hacker Certification"/>
         <br/><b>Cisco Ethical Hacker</b>
       </a>
     </td>
@@ -148,13 +149,13 @@ const oussama = {
     </td>
   <td align="center" width="25%">
       <a href="https://www.credly.com/badges/3fbc4e09-e571-4b6e-8eb6-7e4e340e5017/public_url">
-        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="50" alt="Python Certification"/>
+        <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="50" alt="Cybersecurity Certification"/>
         <br/><b>Cisco Introduction to Cybersecurity</b>
       </a>
     </td>
   <td align="center" width="25%">
       <a href="https://www.credly.com/badges/de79689f-e56f-4565-9462-7b164539d408">
-        <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" height="50" alt="Python Certification"/>
+        <img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" height="50" alt="JavaScript Certification"/>
         <br/><b>JavaScript Essentials 1</b>
       </a>
     </td>
@@ -164,8 +165,14 @@ const oussama = {
   <tr>
   <td align="center" width="25%">
       <a href="https://www.credly.com/badges/a07a8ad9-dd2b-40c3-b145-5ae97971d8c7/linked_in_profile">
-        <img src="https://images.credly.com/size/340x340/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" height="50" alt="Python Certification"/>
+        <img src="https://images.credly.com/size/340x340/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" height="50" alt="HTML Certification"/>
         <br/><b>HTML Essentials</b>
+      </a>
+    </td>
+  <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/3763ff20-a692-4eff-8176-04476e6ba997/public_url">
+        <img src="https://images.credly.com/images/bd2bba36-66ad-4de2-9d91-e29433e51a16/blob" height="50" alt="CSS Certification"/>
+        <br/><b>CSS Essentials</b>
       </a>
     </td>
   </tr>

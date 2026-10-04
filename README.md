@@ -175,6 +175,12 @@ const oussama = {
         <br/><b>CSS Essentials</b>
       </a>
     </td>
+  <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/a8b742fa-dbd1-4505-a9b3-80b8df81760a/public_url">
+        <img src="https://images.credly.com/size/110x110/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" height="50" alt="JavaScript Certification"/>
+        <br/><b>JavaScript Essentials 2</b>
+      </a>
+    </td>
   </tr>
 </table>
 

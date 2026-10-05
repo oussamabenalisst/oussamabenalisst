@@ -103,7 +103,6 @@ const oussama = {
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oussamabenalisst&theme=tokyonight" alt="Stats" width="350"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oussamabenalisst&theme=tokyonight" alt="Productive Time" width="350"/>
       </td>
-      
     </tr>
   </table>
 
